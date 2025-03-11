@@ -1,2 +1,2 @@
-Primeiro projeto git
+Primeiro projeto git.
 Ele quebrou...
